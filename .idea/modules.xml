@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java dsa.iml" filepath="$PROJECT_DIR$/Java dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec02/Lec02.iml" filepath="$PROJECT_DIR$/Lec02/Lec02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec03/Lec03.iml" filepath="$PROJECT_DIR$/Lec03/Lec03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec01/SimpleIntrest/SimpleIntrest.iml" filepath="$PROJECT_DIR$/Lec01/SimpleIntrest/SimpleIntrest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Test1.iml" filepath="$PROJECT_DIR$/Test1/Test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec01/demo1/demo1.iml" filepath="$PROJECT_DIR$/Lec01/demo1/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec01/demo2/demo2.iml" filepath="$PROJECT_DIR$/Lec01/demo2/demo2.iml" />
+    </modules>
+  </component>
+</project>
